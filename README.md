@@ -4,4 +4,4 @@ Python • [Drowsiness_dataset,](https://www.kaggle.com/datasets/dheerajperumand
 
 ## Training results:
 
-![](result/graph.jpg)
+![graph](https://github.com/shreyamG/Driver_Drowsiness_Detection/assets/95539093/863c8ab0-e5bb-4217-bfc9-6a24bd36b3aa)
