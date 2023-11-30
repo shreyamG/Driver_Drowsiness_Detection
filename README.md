@@ -3,9 +3,8 @@ Python • [Drowsiness_dataset,](https://www.kaggle.com/datasets/dheerajperumand
 > This trained model classifies images based on eye-state (open or closed) & mouth-state (yawning or not yawning) as either indicating drowsiness or alertness.
 
 ![2023-11-27 07-57-07](https://github.com/shreyamG/Driver_Drowsiness_Detection/assets/95539093/7ae3720a-8535-4788-982f-9f105ceb8da5)
-
 ![2023-11-27 07-59-13](https://github.com/shreyamG/Driver_Drowsiness_Detection/assets/95539093/d0f7edae-2bc5-4685-b735-b83cfea2896f)
-
+> Eye tracking in real-time video stream
 
 ## Training results:
 
